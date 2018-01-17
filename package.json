@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "MySQL Store-front",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iangoodnight/Bamazon.git"
+  },
+  "keywords": [
+    "MySQL",
+    "Node.js",
+    "store-front",
+    "JavaScript"
+  ],
+  "author": "Ian Goodnight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iangoodnight/Bamazon/issues"
+  },
+  "homepage": "https://github.com/iangoodnight/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  }
+}
