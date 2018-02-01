@@ -11,3 +11,5 @@ Bamazon is a node storefront application utilizing MySQL as a database to track 
 1. Run ```npm install``` to get required packages.
 1. From the root folder, run Bamazon.js!
 
+
+![Image of Bamazon](https://drive.google.com/file/d/19YLmKXV976fx3bpBmRbjoZ3cHzZR2pFP/view?usp=sharing)

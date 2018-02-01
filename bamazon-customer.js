@@ -42,6 +42,8 @@ function start() {
 	});
 }
 
+// Dashboard function (global)
+// We'll return to this in between actions.
 function dashboard() {
 	inquirer
 		.prompt([
