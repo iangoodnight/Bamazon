@@ -12,4 +12,4 @@ Bamazon is a node storefront application utilizing MySQL as a database to track 
 1. From the root folder, run Bamazon.js!
 
 
-![Image of Bamazon](https://photos.app.goo.gl/jrWuYM48dvVz2QkN2)
+![screenshot](screenshots/bamazon.png "Here is the whole app as it flows.")
